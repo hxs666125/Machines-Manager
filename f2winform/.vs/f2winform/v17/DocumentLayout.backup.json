@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\codeData\\C#\\GUI\\f2winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|f:\\codedata\\c#\\gui\\f2winform\\f2winform\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|solutionrelative:f2winform\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\fmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|solutionrelative:f2winform\\fmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\tool_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|solutionrelative:f2winform\\tool_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|solutionrelative:f2winform\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|solutionrelative:f2winform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\sqltoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|solutionrelative:f2winform\\sqltoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|solutionrelative:f2winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|solutionrelative:f2winform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993E5098-A40F-47D9-AC76-BED0F95860A4}|f2winform\\f2winform.csproj|solutionrelative:f2winform\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Program.cs",
+              "RelativeDocumentMoniker": "f2winform\\Program.cs",
+              "ToolTip": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Program.cs",
+              "RelativeToolTip": "f2winform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T04:21:32.565Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fmain.cs",
+              "DocumentMoniker": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Fmain.cs",
+              "RelativeDocumentMoniker": "f2winform\\Fmain.cs",
+              "ToolTip": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Fmain.cs",
+              "RelativeToolTip": "f2winform\\Fmain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:06:26.852Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flogin.Designer.cs",
+              "DocumentMoniker": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Flogin.Designer.cs",
+              "RelativeDocumentMoniker": "f2winform\\Flogin.Designer.cs",
+              "ToolTip": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Flogin.Designer.cs",
+              "RelativeToolTip": "f2winform\\Flogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:30:27.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flogin.cs",
+              "DocumentMoniker": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Flogin.cs",
+              "RelativeDocumentMoniker": "f2winform\\Flogin.cs",
+              "ToolTip": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Flogin.cs",
+              "RelativeToolTip": "f2winform\\Flogin.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:31:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sqlToolClass.cs",
+              "DocumentMoniker": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\sqlToolClass.cs",
+              "RelativeDocumentMoniker": "f2winform\\sqlToolClass.cs",
+              "ToolTip": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\sqlToolClass.cs",
+              "RelativeToolTip": "f2winform\\sqlToolClass.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwG0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:45:18.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fmain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Fmain.cs",
+              "RelativeDocumentMoniker": "f2winform\\Fmain.cs",
+              "ToolTip": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Fmain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "f2winform\\Fmain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:03:43.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fmain.Designer.cs",
+              "DocumentMoniker": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Fmain.Designer.cs",
+              "RelativeDocumentMoniker": "f2winform\\Fmain.Designer.cs",
+              "ToolTip": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Fmain.Designer.cs",
+              "RelativeToolTip": "f2winform\\Fmain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:34:00.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tool_Class.cs",
+              "DocumentMoniker": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Tool_Class.cs",
+              "RelativeDocumentMoniker": "f2winform\\Tool_Class.cs",
+              "ToolTip": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Tool_Class.cs",
+              "RelativeToolTip": "f2winform\\Tool_Class.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T05:28:56.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Flogin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Flogin.cs",
+              "RelativeDocumentMoniker": "f2winform\\Flogin.cs",
+              "ToolTip": "F:\\codeData\\C#\\GUI\\f2winform\\f2winform\\Flogin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "f2winform\\Flogin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:20:37.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
